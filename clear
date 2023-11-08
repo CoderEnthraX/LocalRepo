@@ -1,0 +1,51 @@
+[33mcommit 342829d6e043bfe183f5296d674b2e66bddbf840[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mfeature2[m[33m)[m
+Merge: 703aafb 6b45c8f
+Author: CoderEnthraX <coderenthrax@gmail.com>
+Date:   Wed Nov 8 14:28:04 2023 +0530
+
+    add both features
+
+[33mcommit 703aafbc8df86b7a73b2658c5d806ad112c310af[m
+Author: CoderEnthraX <coderenthrax@gmail.com>
+Date:   Wed Nov 8 14:23:37 2023 +0530
+
+    add dropdown
+
+[33mcommit 6b45c8f776364c6e878f10dcf484e6e42da116ab[m
+Author: CoderEnthraX <coderenthrax@gmail.com>
+Date:   Wed Nov 8 14:22:45 2023 +0530
+
+    add new button
+
+[33mcommit 3d594b8f4cbd2623fb7bd5d17ad7c7300be13f15[m
+Merge: f8ab040 b1ea210
+Author: CoderEnthraX <150227077+CoderEnthraX@users.noreply.github.com>
+Date:   Wed Nov 8 14:19:19 2023 +0530
+
+    Merge pull request #1 from CoderEnthraX/feature2
+    
+    add new heading feature
+
+[33mcommit b1ea2108faa0c82ca079c9714fbca92bee6c0b29[m[33m ([m[1;31morigin/feature2[m[33m)[m
+Author: CoderEnthraX <coderenthrax@gmail.com>
+Date:   Wed Nov 8 14:08:04 2023 +0530
+
+    add new heading feature
+
+[33mcommit f8ab0407724b56c346dfd543baac9d7b0e8cd386[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: CoderEnthraX <coderenthrax@gmail.com>
+Date:   Wed Nov 8 13:57:12 2023 +0530
+
+    created and change readme file
+
+[33mcommit 81efc72eb50aa11b93b8fd7282de3cacc7247fb3[m
+Author: CoderEnthraX <coderenthrax@gmail.com>
+Date:   Wed Nov 8 13:54:52 2023 +0530
+
+    code saved
+
+[33mcommit 6080dada800c7a7ce5a2375cd64d08555d8e3f23[m
+Author: CoderEnthraX <coderenthrax@gmail.com>
+Date:   Wed Nov 8 13:42:46 2023 +0530
+
+    Add initial Files
